@@ -1,339 +1,34 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719044938829 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719045168463 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044941875 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719045171500 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044944907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719045174536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044947954 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719045177570 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044950996 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719045180616 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044954025 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719045183665 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044957060 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044960107 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044963163 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044966207 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044969249 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044972278 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044975317 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044978347 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044981399 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044984462 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044987512 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044990543 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044993573 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044996615 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719044999645 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045002708 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045005768 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045008840 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045011871 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045014904 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045017963 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045021019 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045024076 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045027131 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045030205 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045033249 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045036289 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045039341 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045042380 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045045426 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045048461 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045051495 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045054539 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045057592 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045060646 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045063698 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045066729 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045069767 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045072817 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045075874 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045078987 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045082051 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045085101 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045088147 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045091190 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045094240 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045097283 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045100316 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045103374 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045106427 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045109461 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045112510 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045115545 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045118577 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045121635 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045124735 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045127782 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045130816 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045133868 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045136919 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045139999 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-bid-deadline.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719045143046 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719045186711 tunnel running, 1 tunnels registered
 
 
 TUNNELS
